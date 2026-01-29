@@ -2,5 +2,5 @@
 
 A minimal landing page linking to my main portfolio.
 
-- HTML / CSS
+- HTML / CSS / JavaScript
 - Deployed on Netlify
